@@ -148,7 +148,7 @@ youtube-mix-converter/
 
 ## License
 
-MIT License — feel free to use, modify, and share.
+feel free to use, modify, and share.
 
 ---
 
